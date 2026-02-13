@@ -1,7 +1,30 @@
 {
-  "chains" : [
-
-  ],
-  "lastUpdated" : "2026-02-13T05:22:09Z",
-  "version" : "1.0"
+  "version": "1.0",
+  "lastUpdated": "2026-02-13T15:00:00Z",
+  "chains": [
+    {
+      "id": "chain-001",
+      "name": "Chain from ACE",
+      "description": "Anagram chain",
+      "difficulty": "medium",
+      "letterCount": 6,
+      "url": "https://raw.githubusercontent.com/rahulmatthan/anagram-chains-data/master/chains/chain-001.json"
+    },
+    {
+      "id": "chain-002",
+      "name": "Chain from ALE",
+      "description": "Anagram chain",
+      "difficulty": "medium",
+      "letterCount": 6,
+      "url": "https://raw.githubusercontent.com/rahulmatthan/anagram-chains-data/master/chains/chain-002.json"
+    },
+    {
+      "id": "chain-003",
+      "name": "Jump",
+      "description": "Anagram chain",
+      "difficulty": "medium",
+      "letterCount": 6,
+      "url": "https://raw.githubusercontent.com/rahulmatthan/anagram-chains-data/master/chains/chain-003.json"
+    }
+  ]
 }
