@@ -143,8 +143,24 @@
       "letterCount" : 6,
       "name" : "Pagan",
       "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-018.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "hard",
+      "id" : "chain-019",
+      "letterCount" : 6,
+      "name" : "Big",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-019.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-020",
+      "letterCount" : 6,
+      "name" : "Vain",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-020.json"
     }
   ],
-  "lastUpdated" : "2026-02-13T16:16:02Z",
+  "lastUpdated" : "2026-02-13T16:42:24Z",
   "version" : "1.0"
 }
