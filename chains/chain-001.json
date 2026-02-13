@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T04:44:21Z",
+  "createdDate" : "2026-02-13T05:09:00Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "98268CCA-3D54-46E7-945E-9D7EE56B1E1E",
+  "id" : "C6AEFA40-3066-4CD3-B0FC-991E515DA621",
   "levels" : [
     {
-      "id" : "BF1837FE-F25D-44C3-A7FA-5249BED16DEE",
-      "intendedWord" : "AGE",
+      "id" : "8C798172-EC1D-4DEB-BE28-35A65B22CFB0",
+      "intendedWord" : "ACT",
       "letterCount" : 3,
-      "letters" : "AGE"
+      "letters" : "ACT"
     },
     {
       "addedLetter" : "R",
-      "id" : "2E041CEE-BC63-49B5-AE10-D331006FCC3F",
-      "intendedWord" : "GEAR",
+      "id" : "D820B7B4-7353-4BC0-814D-E3C79C4951D6",
+      "intendedWord" : "CART",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "L",
-      "id" : "1633EC8D-E94A-456F-8505-E516BD1A6FC7",
-      "intendedWord" : "LARGE",
+      "addedLetter" : "E",
+      "id" : "EAB636CE-BBA1-4B57-A51A-6226167CA07F",
+      "intendedWord" : "TRACE",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "O",
-      "id" : "48A33D5D-0287-43E5-96E5-C6A8D43341BB",
-      "intendedWord" : "GALORE",
+      "addedLetter" : "U",
+      "id" : "CDEED0CB-7338-4150-BA13-9ED1C7BAF1C7",
+      "intendedWord" : "CURATE",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "P",
-      "id" : "539BB71C-FB4F-4439-A345-7DA756AEEB2A",
-      "intendedWord" : "PERGOLA",
+      "addedLetter" : "N",
+      "id" : "81FCBFC4-C140-478F-8B45-8CEBA21903D5",
+      "intendedWord" : "CENTAUR",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "F",
-      "id" : "F63506F7-1FFE-404B-AE29-0862FFA6FE2F",
-      "intendedWord" : "LEAPFROG",
+      "addedLetter" : "T",
+      "id" : "C772076E-657E-4F35-8547-978FBFD6E1E2",
+      "intendedWord" : "TRUNCATE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T04:44:21Z",
-  "name" : "Jump",
+  "modifiedDate" : "2026-02-13T05:09:00Z",
+  "name" : "Chain from ACT",
   "version" : "1.0"
 }
