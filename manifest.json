@@ -71,8 +71,80 @@
       "letterCount" : 6,
       "name" : "Horror",
       "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-009.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "easy",
+      "id" : "chain-010",
+      "letterCount" : 6,
+      "name" : "Evident",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-010.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-011",
+      "letterCount" : 6,
+      "name" : "Relate",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-011.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-012",
+      "letterCount" : 6,
+      "name" : "Who knows",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-012.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-013",
+      "letterCount" : 6,
+      "name" : "Nice",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-013.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-014",
+      "letterCount" : 6,
+      "name" : "Sediment",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-014.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-015",
+      "letterCount" : 6,
+      "name" : "Horticultural",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-015.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-016",
+      "letterCount" : 6,
+      "name" : "Spectrum",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-016.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-017",
+      "letterCount" : 6,
+      "name" : "Frail",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-017.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "hard",
+      "id" : "chain-018",
+      "letterCount" : 6,
+      "name" : "Pagan",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-018.json"
     }
   ],
-  "lastUpdated" : "2026-02-13T12:59:04Z",
+  "lastUpdated" : "2026-02-13T16:16:02Z",
   "version" : "1.0"
 }
