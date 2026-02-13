@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T05:00:19Z",
+  "createdDate" : "2026-02-13T12:34:44Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "865B68B3-251E-4B82-B2E4-2EB2E91ADF8A",
+  "id" : "95AA99B2-4C13-4B3C-974D-C3A8656E415B",
   "levels" : [
     {
-      "id" : "A2E21677-BD4E-41C3-A2D2-E491280B09C1",
+      "id" : "DCBF4EF3-F478-401F-9176-B3E38ED72404",
       "intendedWord" : "BAT",
       "letterCount" : 3,
       "letters" : "BAT"
     },
     {
       "addedLetter" : "E",
-      "id" : "1AC841DA-4B47-4877-BB6E-2695482CD042",
+      "id" : "D02BFE3C-BC49-4CDD-BDB6-AF8208EE4CA7",
       "intendedWord" : "BETA",
       "letterCount" : 4
     },
     {
       "addedLetter" : "S",
-      "id" : "5855BC10-6FC9-426B-9379-F7439FD94A72",
+      "id" : "19C91DA8-EEBC-4AEC-99FD-D2D4FCF38C2A",
       "intendedWord" : "BEAST",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "L",
-      "id" : "71911C90-1293-42A2-BC29-1EC9C5736D2B",
-      "intendedWord" : "STABLE",
+      "addedLetter" : "N",
+      "id" : "B8BB494B-791D-40BE-A69D-290AE5E65B5D",
+      "intendedWord" : "ABSENT",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "R",
-      "id" : "D8635E1C-AEE9-40B9-8803-70269B8B1A17",
-      "intendedWord" : "BLASTER",
+      "addedLetter" : "I",
+      "id" : "727D219A-93DA-4604-973C-CEC65423C0F9",
+      "intendedWord" : "BASINET",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "O",
-      "id" : "FD3FC604-76F0-48B6-84CB-DF5BB42688DA",
-      "intendedWord" : "SORTABLE",
+      "addedLetter" : "R",
+      "id" : "018BB8AE-CCBD-4218-BC1C-5B5EADE6C95C",
+      "intendedWord" : "BANISTER",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T05:00:19Z",
-  "name" : "Chain from BAT",
+  "modifiedDate" : "2026-02-13T12:34:44Z",
+  "name" : "One Step At a Time",
   "version" : "1.0"
 }

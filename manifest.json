@@ -5,15 +5,15 @@
       "difficulty" : "medium",
       "id" : "chain-001",
       "letterCount" : 6,
-      "name" : "Chain from DAM",
+      "name" : "Jump",
       "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-001.json"
     },
     {
       "description" : "Anagram chain",
-      "difficulty" : "medium",
+      "difficulty" : "easy",
       "id" : "chain-002",
       "letterCount" : 6,
-      "name" : "Chain from ACT",
+      "name" : "Cancer",
       "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-002.json"
     },
     {
@@ -21,7 +21,7 @@
       "difficulty" : "medium",
       "id" : "chain-003",
       "letterCount" : 6,
-      "name" : "Chain from BAT",
+      "name" : "One Step At a Time",
       "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-003.json"
     },
     {
@@ -29,10 +29,50 @@
       "difficulty" : "medium",
       "id" : "chain-004",
       "letterCount" : 6,
-      "name" : "Jump",
+      "name" : "Shorten",
       "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-004.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-005",
+      "letterCount" : 6,
+      "name" : "Tiara",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-005.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-006",
+      "letterCount" : 6,
+      "name" : "Sigh",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-006.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "hard",
+      "id" : "chain-007",
+      "letterCount" : 6,
+      "name" : "Schooled",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-007.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-008",
+      "letterCount" : 6,
+      "name" : "Quantum",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-008.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "easy",
+      "id" : "chain-009",
+      "letterCount" : 6,
+      "name" : "Horror",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-009.json"
     }
   ],
-  "lastUpdated" : "2026-02-13T09:37:50Z",
+  "lastUpdated" : "2026-02-13T12:59:04Z",
   "version" : "1.0"
 }

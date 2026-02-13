@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T05:09:00Z",
+  "createdDate" : "2026-02-13T12:33:45Z",
   "description" : "Anagram chain",
-  "difficulty" : "medium",
-  "id" : "C6AEFA40-3066-4CD3-B0FC-991E515DA621",
+  "difficulty" : "easy",
+  "id" : "37CC3C00-4606-47A1-A3CF-9D6433093773",
   "levels" : [
     {
-      "id" : "8C798172-EC1D-4DEB-BE28-35A65B22CFB0",
-      "intendedWord" : "ACT",
+      "id" : "F97BF49E-6645-42C0-B8E2-5E1239486AFF",
+      "intendedWord" : "BAR",
       "letterCount" : 3,
-      "letters" : "ACT"
+      "letters" : "BAR"
     },
     {
-      "addedLetter" : "R",
-      "id" : "D820B7B4-7353-4BC0-814D-E3C79C4951D6",
-      "intendedWord" : "CART",
+      "addedLetter" : "K",
+      "id" : "84C22ACF-B93C-4494-9C88-AC0CF9E46C84",
+      "intendedWord" : "BARK",
       "letterCount" : 4
     },
     {
       "addedLetter" : "E",
-      "id" : "EAB636CE-BBA1-4B57-A51A-6226167CA07F",
-      "intendedWord" : "TRACE",
+      "id" : "1CC21032-8865-40F6-B3AE-86DD85D8F644",
+      "intendedWord" : "BAKER",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "U",
-      "id" : "CDEED0CB-7338-4150-BA13-9ED1C7BAF1C7",
-      "intendedWord" : "CURATE",
+      "addedLetter" : "C",
+      "id" : "C605BD53-8195-4C6D-BDE8-69008C848AD6",
+      "intendedWord" : "BACKER",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "N",
-      "id" : "81FCBFC4-C140-478F-8B45-8CEBA21903D5",
-      "intendedWord" : "CENTAUR",
+      "addedLetter" : "L",
+      "id" : "1658C0B2-1D84-48CD-A652-D627309AFB36",
+      "intendedWord" : "BLACKER",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "T",
-      "id" : "C772076E-657E-4F35-8547-978FBFD6E1E2",
-      "intendedWord" : "TRUNCATE",
+      "addedLetter" : "I",
+      "id" : "3158E16D-70DD-4C9D-A77A-E8B3D1C79C74",
+      "intendedWord" : "CRABLIKE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T05:09:00Z",
-  "name" : "Chain from ACT",
+  "modifiedDate" : "2026-02-13T12:33:45Z",
+  "name" : "Cancer",
   "version" : "1.0"
 }
