@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T04:44:21Z",
+  "createdDate" : "2026-02-13T05:00:19Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "98268CCA-3D54-46E7-945E-9D7EE56B1E1E",
+  "id" : "865B68B3-251E-4B82-B2E4-2EB2E91ADF8A",
   "levels" : [
     {
-      "id" : "BF1837FE-F25D-44C3-A7FA-5249BED16DEE",
-      "intendedWord" : "AGE",
+      "id" : "A2E21677-BD4E-41C3-A2D2-E491280B09C1",
+      "intendedWord" : "BAT",
       "letterCount" : 3,
-      "letters" : "AGE"
+      "letters" : "BAT"
     },
     {
-      "addedLetter" : "R",
-      "id" : "2E041CEE-BC63-49B5-AE10-D331006FCC3F",
-      "intendedWord" : "GEAR",
+      "addedLetter" : "E",
+      "id" : "1AC841DA-4B47-4877-BB6E-2695482CD042",
+      "intendedWord" : "BETA",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "L",
-      "id" : "1633EC8D-E94A-456F-8505-E516BD1A6FC7",
-      "intendedWord" : "LARGE",
+      "addedLetter" : "S",
+      "id" : "5855BC10-6FC9-426B-9379-F7439FD94A72",
+      "intendedWord" : "BEAST",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "O",
-      "id" : "48A33D5D-0287-43E5-96E5-C6A8D43341BB",
-      "intendedWord" : "GALORE",
+      "addedLetter" : "L",
+      "id" : "71911C90-1293-42A2-BC29-1EC9C5736D2B",
+      "intendedWord" : "STABLE",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "P",
-      "id" : "539BB71C-FB4F-4439-A345-7DA756AEEB2A",
-      "intendedWord" : "PERGOLA",
+      "addedLetter" : "R",
+      "id" : "D8635E1C-AEE9-40B9-8803-70269B8B1A17",
+      "intendedWord" : "BLASTER",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "F",
-      "id" : "F63506F7-1FFE-404B-AE29-0862FFA6FE2F",
-      "intendedWord" : "LEAPFROG",
+      "addedLetter" : "O",
+      "id" : "FD3FC604-76F0-48B6-84CB-DF5BB42688DA",
+      "intendedWord" : "SORTABLE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T04:44:21Z",
-  "name" : "Jump",
+  "modifiedDate" : "2026-02-13T05:00:19Z",
+  "name" : "Chain from BAT",
   "version" : "1.0"
 }

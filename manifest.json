@@ -1,7 +1,38 @@
 {
   "chains" : [
-
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-001",
+      "letterCount" : 6,
+      "name" : "Chain from DAM",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-001.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-002",
+      "letterCount" : 6,
+      "name" : "Chain from ACT",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-002.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-003",
+      "letterCount" : 6,
+      "name" : "Chain from BAT",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-003.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-004",
+      "letterCount" : 6,
+      "name" : "Jump",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-004.json"
+    }
   ],
-  "lastUpdated" : "2026-02-13T09:24:25Z",
+  "lastUpdated" : "2026-02-13T09:37:50Z",
   "version" : "1.0"
 }

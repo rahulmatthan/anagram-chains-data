@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T05:09:00Z",
+  "createdDate" : "2026-02-13T09:24:22Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "C6AEFA40-3066-4CD3-B0FC-991E515DA621",
+  "id" : "7557E261-AD19-4674-97A7-4D67B317943A",
   "levels" : [
     {
-      "id" : "8C798172-EC1D-4DEB-BE28-35A65B22CFB0",
-      "intendedWord" : "ACT",
+      "id" : "B515DFC0-1755-4084-A66C-E1B7B3C006DA",
+      "intendedWord" : "DAM",
       "letterCount" : 3,
-      "letters" : "ACT"
+      "letters" : "DAM"
     },
     {
-      "addedLetter" : "R",
-      "id" : "D820B7B4-7353-4BC0-814D-E3C79C4951D6",
-      "intendedWord" : "CART",
+      "addedLetter" : "I",
+      "id" : "86313D21-9EC3-44C9-A3D0-A244F546908F",
+      "intendedWord" : "AMID",
       "letterCount" : 4
     },
     {
       "addedLetter" : "E",
-      "id" : "EAB636CE-BBA1-4B57-A51A-6226167CA07F",
-      "intendedWord" : "TRACE",
+      "id" : "CD228150-DB2B-45CC-8C5B-8B8C249501AD",
+      "intendedWord" : "MEDIA",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "U",
-      "id" : "CDEED0CB-7338-4150-BA13-9ED1C7BAF1C7",
-      "intendedWord" : "CURATE",
+      "addedLetter" : "R",
+      "id" : "CCF4CDBE-558F-4C61-BBBD-7436E192A806",
+      "intendedWord" : "ADMIRE",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "N",
-      "id" : "81FCBFC4-C140-478F-8B45-8CEBA21903D5",
-      "intendedWord" : "CENTAUR",
+      "addedLetter" : "S",
+      "id" : "16152F90-8C1C-4422-B648-D291A943F01B",
+      "intendedWord" : "SIDEARM",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "T",
-      "id" : "C772076E-657E-4F35-8547-978FBFD6E1E2",
-      "intendedWord" : "TRUNCATE",
+      "addedLetter" : "D",
+      "id" : "2D6B7FD0-EF7D-4CD0-87A6-EF9CECF82C2D",
+      "intendedWord" : "DISARMED",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T05:09:00Z",
-  "name" : "Chain from ACT",
+  "modifiedDate" : "2026-02-13T09:24:22Z",
+  "name" : "Chain from DAM",
   "version" : "1.0"
 }

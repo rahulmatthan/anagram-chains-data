@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T05:00:19Z",
+  "createdDate" : "2026-02-13T05:09:00Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "865B68B3-251E-4B82-B2E4-2EB2E91ADF8A",
+  "id" : "C6AEFA40-3066-4CD3-B0FC-991E515DA621",
   "levels" : [
     {
-      "id" : "A2E21677-BD4E-41C3-A2D2-E491280B09C1",
-      "intendedWord" : "BAT",
+      "id" : "8C798172-EC1D-4DEB-BE28-35A65B22CFB0",
+      "intendedWord" : "ACT",
       "letterCount" : 3,
-      "letters" : "BAT"
-    },
-    {
-      "addedLetter" : "E",
-      "id" : "1AC841DA-4B47-4877-BB6E-2695482CD042",
-      "intendedWord" : "BETA",
-      "letterCount" : 4
-    },
-    {
-      "addedLetter" : "S",
-      "id" : "5855BC10-6FC9-426B-9379-F7439FD94A72",
-      "intendedWord" : "BEAST",
-      "letterCount" : 5
-    },
-    {
-      "addedLetter" : "L",
-      "id" : "71911C90-1293-42A2-BC29-1EC9C5736D2B",
-      "intendedWord" : "STABLE",
-      "letterCount" : 6
+      "letters" : "ACT"
     },
     {
       "addedLetter" : "R",
-      "id" : "D8635E1C-AEE9-40B9-8803-70269B8B1A17",
-      "intendedWord" : "BLASTER",
+      "id" : "D820B7B4-7353-4BC0-814D-E3C79C4951D6",
+      "intendedWord" : "CART",
+      "letterCount" : 4
+    },
+    {
+      "addedLetter" : "E",
+      "id" : "EAB636CE-BBA1-4B57-A51A-6226167CA07F",
+      "intendedWord" : "TRACE",
+      "letterCount" : 5
+    },
+    {
+      "addedLetter" : "U",
+      "id" : "CDEED0CB-7338-4150-BA13-9ED1C7BAF1C7",
+      "intendedWord" : "CURATE",
+      "letterCount" : 6
+    },
+    {
+      "addedLetter" : "N",
+      "id" : "81FCBFC4-C140-478F-8B45-8CEBA21903D5",
+      "intendedWord" : "CENTAUR",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "O",
-      "id" : "FD3FC604-76F0-48B6-84CB-DF5BB42688DA",
-      "intendedWord" : "SORTABLE",
+      "addedLetter" : "T",
+      "id" : "C772076E-657E-4F35-8547-978FBFD6E1E2",
+      "intendedWord" : "TRUNCATE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T05:00:19Z",
-  "name" : "Chain from BAT",
+  "modifiedDate" : "2026-02-13T05:09:00Z",
+  "name" : "Chain from ACT",
   "version" : "1.0"
 }
