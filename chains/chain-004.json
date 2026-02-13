@@ -1,0 +1,47 @@
+{
+  "createdDate" : "2026-02-13T09:24:22Z",
+  "description" : "Anagram chain",
+  "difficulty" : "medium",
+  "id" : "7557E261-AD19-4674-97A7-4D67B317943A",
+  "levels" : [
+    {
+      "id" : "B515DFC0-1755-4084-A66C-E1B7B3C006DA",
+      "intendedWord" : "DAM",
+      "letterCount" : 3,
+      "letters" : "DAM"
+    },
+    {
+      "addedLetter" : "I",
+      "id" : "86313D21-9EC3-44C9-A3D0-A244F546908F",
+      "intendedWord" : "AMID",
+      "letterCount" : 4
+    },
+    {
+      "addedLetter" : "E",
+      "id" : "CD228150-DB2B-45CC-8C5B-8B8C249501AD",
+      "intendedWord" : "MEDIA",
+      "letterCount" : 5
+    },
+    {
+      "addedLetter" : "R",
+      "id" : "CCF4CDBE-558F-4C61-BBBD-7436E192A806",
+      "intendedWord" : "ADMIRE",
+      "letterCount" : 6
+    },
+    {
+      "addedLetter" : "S",
+      "id" : "16152F90-8C1C-4422-B648-D291A943F01B",
+      "intendedWord" : "SIDEARM",
+      "letterCount" : 7
+    },
+    {
+      "addedLetter" : "D",
+      "id" : "2D6B7FD0-EF7D-4CD0-87A6-EF9CECF82C2D",
+      "intendedWord" : "DISARMED",
+      "letterCount" : 8
+    }
+  ],
+  "modifiedDate" : "2026-02-13T09:24:22Z",
+  "name" : "Chain from DAM",
+  "version" : "1.0"
+}
