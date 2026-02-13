@@ -1,0 +1,47 @@
+{
+  "createdDate" : "2026-02-13T03:56:18Z",
+  "description" : "Anagram chain",
+  "difficulty" : "medium",
+  "id" : "DE71C470-CCBA-4B58-BF51-07FB555C60F9",
+  "levels" : [
+    {
+      "id" : "42E6BA38-FE29-49E7-AB7E-4A3448C086B5",
+      "intendedWord" : "ALE",
+      "letterCount" : 3,
+      "letters" : "ALE"
+    },
+    {
+      "addedLetter" : "C",
+      "id" : "A5DAF73A-B935-4E34-AB6C-9695986CD5A5",
+      "intendedWord" : "LACE",
+      "letterCount" : 4
+    },
+    {
+      "addedLetter" : "N",
+      "id" : "E194CDB0-DBCF-4137-BC8F-AAE739B911F6",
+      "intendedWord" : "CLEAN",
+      "letterCount" : 5
+    },
+    {
+      "addedLetter" : "T",
+      "id" : "2E0190C7-4036-49BB-B0BF-AE1BA5BB7CC6",
+      "intendedWord" : "LANCET",
+      "letterCount" : 6
+    },
+    {
+      "addedLetter" : "R",
+      "id" : "244D8181-3644-4FD6-B9CA-561E445C29D9",
+      "intendedWord" : "CENTRAL",
+      "letterCount" : 7
+    },
+    {
+      "addedLetter" : "I",
+      "id" : "14B69DCA-87BD-4736-8122-AC7BAF5C0E1F",
+      "intendedWord" : "CLARINET",
+      "letterCount" : 8
+    }
+  ],
+  "modifiedDate" : "2026-02-13T03:56:18Z",
+  "name" : "Chain from ALE",
+  "version" : "1.0"
+}
