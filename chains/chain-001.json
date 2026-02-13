@@ -1,0 +1,47 @@
+{
+  "createdDate" : "2026-02-13T02:56:21Z",
+  "description" : "Anagram chain",
+  "difficulty" : "medium",
+  "id" : "AEA55DAB-48EC-4AAE-AE8B-D08F5B053D91",
+  "levels" : [
+    {
+      "id" : "0C115190-DB3B-4B21-9583-5D912AA5806E",
+      "intendedWord" : "ACE",
+      "letterCount" : 3,
+      "letters" : "ACE"
+    },
+    {
+      "addedLetter" : "S",
+      "id" : "877C2D11-A606-412E-934A-F842842A36F4",
+      "intendedWord" : "CASE",
+      "letterCount" : 4
+    },
+    {
+      "addedLetter" : "R",
+      "id" : "BAC015B9-1903-4BF4-AD0A-A84096098151",
+      "intendedWord" : "SCARE",
+      "letterCount" : 5
+    },
+    {
+      "addedLetter" : "U",
+      "id" : "093F0BDB-7A5C-4728-94BE-2748353308E2",
+      "intendedWord" : "SAUCER",
+      "letterCount" : 6
+    },
+    {
+      "addedLetter" : "D",
+      "id" : "814F5599-E0F9-4647-B1E1-63A82F80A1A3",
+      "intendedWord" : "CRUSADE",
+      "letterCount" : 7
+    },
+    {
+      "addedLetter" : "F",
+      "id" : "CDEF631F-271B-4236-88B1-2BF8A6A041FB",
+      "intendedWord" : "SURFACED",
+      "letterCount" : 8
+    }
+  ],
+  "modifiedDate" : "2026-02-13T02:56:21Z",
+  "name" : "Chain from ACE",
+  "version" : "1.0"
+}
