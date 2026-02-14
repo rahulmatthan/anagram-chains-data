@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T14:37:25Z",
+  "createdDate" : "2026-02-13T15:24:47Z",
   "description" : "Anagram chain",
-  "difficulty" : "easy",
-  "id" : "ED0361C6-77AC-409B-ABA1-418C1CC78148",
+  "difficulty" : "medium",
+  "id" : "ED0A4694-43BE-4065-8429-A504ED9483A3",
   "levels" : [
     {
-      "id" : "610D6A4C-51DA-45FA-BA53-F6DC7C392C06",
-      "intendedWord" : "APE",
+      "id" : "8D052D7C-ED61-43C1-8A94-761D03050883",
+      "intendedWord" : "FAR",
       "letterCount" : 3,
-      "letters" : "APE"
+      "letters" : "FAR"
     },
     {
-      "addedLetter" : "R",
-      "id" : "5AF1BAA1-02D1-409B-8B21-E16BDCC73314",
-      "intendedWord" : "PEAR",
+      "addedLetter" : "T",
+      "id" : "FF1031F5-7DC6-453A-8CEF-52AFDB1DF45E",
+      "intendedWord" : "RAFT",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "O",
-      "id" : "645DDD07-B19E-47D7-82BC-FE19876730F1",
-      "intendedWord" : "OPERA",
+      "addedLetter" : "E",
+      "id" : "4E91F6F6-11EE-4D26-92DB-6C6975CF8316",
+      "intendedWord" : "AFTER",
       "letterCount" : 5
     },
     {
       "addedLetter" : "L",
-      "id" : "F0B363AA-0E87-408F-9B4B-134CE20EF454",
-      "intendedWord" : "PAROLE",
+      "id" : "E14CBCDB-DFCA-44ED-8905-A5311644F3A1",
+      "intendedWord" : "FALTER",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "V",
-      "id" : "B125FD49-7F9B-41B2-9C9A-16FB8D4C4F1D",
-      "intendedWord" : "OVERLAP",
+      "addedLetter" : "T",
+      "id" : "3244B069-8D0E-4FDC-9B96-1C97E3977F49",
+      "intendedWord" : "FLATTER",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "B",
-      "id" : "79DC92D0-B488-4D82-8581-E0AAFD2D1FD1",
-      "intendedWord" : "PROVABLE",
+      "addedLetter" : "I",
+      "id" : "52762840-E2CF-49F6-857F-DF46E0781B73",
+      "intendedWord" : "FILTRATE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T14:37:25Z",
-  "name" : "Evident",
+  "modifiedDate" : "2026-02-13T15:24:47Z",
+  "name" : "Sediment",
   "version" : "1.0"
 }

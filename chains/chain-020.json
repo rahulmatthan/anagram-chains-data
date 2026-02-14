@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T16:42:20Z",
+  "createdDate" : "2026-02-13T12:36:25Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "18EB3E6F-C319-4D7B-BF2D-87D6B6D3DD27",
+  "id" : "547B1D9A-890F-402F-995C-3D55E84634E4",
   "levels" : [
     {
-      "id" : "83AA7F2D-8034-40AB-A0C6-1D2E9FBA3E0D",
-      "intendedWord" : "BAT",
+      "id" : "5DD2D7CD-30FF-4A14-9B22-EEE89F4CFC48",
+      "intendedWord" : "ACT",
       "letterCount" : 3,
-      "letters" : "BAT"
+      "letters" : "ACT"
     },
     {
-      "addedLetter" : "O",
-      "id" : "D018F99D-84C7-440E-8F45-330DE03AC776",
-      "intendedWord" : "BOAT",
+      "addedLetter" : "R",
+      "id" : "4E80C49F-3BE6-470B-9771-9830A81E19DB",
+      "intendedWord" : "CART",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "N",
-      "id" : "2199B33D-A812-4558-8B51-EFD4F5D28243",
-      "intendedWord" : "BATON",
+      "addedLetter" : "E",
+      "id" : "2ADEC1A3-F7B1-4A55-9863-396883C280F0",
+      "intendedWord" : "TRACE",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "I",
-      "id" : "AEAB062A-BFC2-469B-A0E4-BF429D7A8B1D",
-      "intendedWord" : "OBTAIN",
+      "addedLetter" : "U",
+      "id" : "70FEF407-A5CE-4346-A59E-E7687C063A9E",
+      "intendedWord" : "CURATE",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "S",
-      "id" : "58808ABB-C70E-4593-A10E-132188DA366E",
-      "intendedWord" : "BASTION",
+      "addedLetter" : "N",
+      "id" : "6288665E-78D4-41DB-A364-FC7A13F6F756",
+      "intendedWord" : "CENTAUR",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "G",
-      "id" : "302C0D57-04AB-4C04-B01D-9BB2FAF8D6D9",
-      "intendedWord" : "BOASTING",
+      "addedLetter" : "T",
+      "id" : "C05FFCE9-F191-4284-B3CC-6668FC15CD93",
+      "intendedWord" : "TRUNCATE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T16:42:20Z",
-  "name" : "Vain",
+  "modifiedDate" : "2026-02-13T12:36:25Z",
+  "name" : "Shorten",
   "version" : "1.0"
 }

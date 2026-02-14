@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T15:34:46Z",
+  "createdDate" : "2026-02-13T12:59:00Z",
   "description" : "Anagram chain",
-  "difficulty" : "medium",
-  "id" : "770E38A1-12D0-4C21-AFA2-795A8A680542",
+  "difficulty" : "easy",
+  "id" : "D0C1F9CA-8B0C-453E-B9D6-C15C2F3E9801",
   "levels" : [
     {
-      "id" : "09B9D8AB-8F2F-4BBD-B5A2-93EB08B2BB8C",
-      "intendedWord" : "ADD",
+      "id" : "AFC95D15-3B0B-4AE1-8AB3-194EC4A8AFCB",
+      "intendedWord" : "ALE",
       "letterCount" : 3,
-      "letters" : "ADD"
+      "letters" : "ALE"
     },
     {
-      "addedLetter" : "E",
-      "id" : "14E94C9D-EF3D-4952-B55A-251AF3909D47",
-      "intendedWord" : "DEAD",
+      "addedLetter" : "S",
+      "id" : "6714B636-F550-4086-B431-E585BAB8330E",
+      "intendedWord" : "SEAL",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "R",
-      "id" : "A5856FB4-94B0-4E8A-A2FA-502EF6D43C75",
-      "intendedWord" : "DREAD",
+      "addedLetter" : "H",
+      "id" : "475B5D0D-2308-4236-B177-B92B5A610276",
+      "intendedWord" : "SHALE",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "G",
-      "id" : "6A2E2512-9861-4DAB-969F-A37571383282",
-      "intendedWord" : "GRADED",
+      "addedLetter" : "S",
+      "id" : "1633352F-532F-4D35-BADB-E79BE547ED9E",
+      "intendedWord" : "HASSLE",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "E",
-      "id" : "01C3BF38-023E-404F-BAA2-2225ACB1535A",
-      "intendedWord" : "DEGRADE",
+      "addedLetter" : "D",
+      "id" : "42931A70-E9CD-4986-9FB0-026C90D898C2",
+      "intendedWord" : "SLASHED",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "N",
-      "id" : "37811CDA-BDAF-4EF8-9755-7F5B1C9591B9",
-      "intendedWord" : "GARDENED",
+      "addedLetter" : "E",
+      "id" : "031E9584-DCBA-498A-B42F-2DCB567E414C",
+      "intendedWord" : "HEADLESS",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T15:34:46Z",
-  "name" : "Horticultural",
+  "modifiedDate" : "2026-02-13T12:59:00Z",
+  "name" : "Horror",
   "version" : "1.0"
 }

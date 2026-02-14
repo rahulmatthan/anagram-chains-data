@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-14T12:24:59Z",
+  "createdDate" : "2026-02-13T12:34:44Z",
   "description" : "Anagram chain",
-  "difficulty" : "hard",
-  "id" : "00947E21-7D08-48B5-A5D0-D7D7FECE5FCA",
+  "difficulty" : "medium",
+  "id" : "95AA99B2-4C13-4B3C-974D-C3A8656E415B",
   "levels" : [
     {
-      "id" : "28964A4D-C924-40C5-B146-32B8434CBB6D",
-      "intendedWord" : "BAR",
+      "id" : "DCBF4EF3-F478-401F-9176-B3E38ED72404",
+      "intendedWord" : "BAT",
       "letterCount" : 3,
-      "letters" : "BAR"
-    },
-    {
-      "addedLetter" : "G",
-      "id" : "BDD89A04-B1D6-4758-A429-219FC09389CD",
-      "intendedWord" : "GRAB",
-      "letterCount" : 4
+      "letters" : "BAT"
     },
     {
       "addedLetter" : "E",
-      "id" : "511907B4-A8FD-4691-BB79-6889BE972BFB",
-      "intendedWord" : "BARGE",
+      "id" : "D02BFE3C-BC49-4CDD-BDB6-AF8208EE4CA7",
+      "intendedWord" : "BETA",
+      "letterCount" : 4
+    },
+    {
+      "addedLetter" : "S",
+      "id" : "19C91DA8-EEBC-4AEC-99FD-D2D4FCF38C2A",
+      "intendedWord" : "BEAST",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "L",
-      "id" : "1FCC08E8-5F4B-45E1-9B50-D0EA478622B4",
-      "intendedWord" : "GARBLE",
+      "addedLetter" : "N",
+      "id" : "B8BB494B-791D-40BE-A69D-290AE5E65B5D",
+      "intendedWord" : "ABSENT",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "A",
-      "id" : "0477A160-3D94-478D-B403-5C900032EA15",
-      "intendedWord" : "ALGEBRA",
+      "addedLetter" : "I",
+      "id" : "727D219A-93DA-4604-973C-CEC65423C0F9",
+      "intendedWord" : "BASINET",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "U",
-      "id" : "E7D62518-062D-4D80-88E3-618C5DB60F4E",
-      "intendedWord" : "ARGUABLE",
+      "addedLetter" : "R",
+      "id" : "018BB8AE-CCBD-4218-BC1C-5B5EADE6C95C",
+      "intendedWord" : "BANISTER",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-14T12:24:59Z",
-  "name" : "Lawyers Love This",
+  "modifiedDate" : "2026-02-13T12:34:44Z",
+  "name" : "One Step At a Time",
   "version" : "1.0"
 }

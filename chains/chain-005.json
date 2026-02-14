@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T12:41:22Z",
+  "createdDate" : "2026-02-13T16:28:22Z",
   "description" : "Anagram chain",
-  "difficulty" : "medium",
-  "id" : "22D14479-5282-4105-B8DB-98C3BBD352BC",
+  "difficulty" : "hard",
+  "id" : "AE34DCAE-F949-4959-822C-68C75EECFE35",
   "levels" : [
     {
-      "id" : "643BFDC8-C108-4CFD-A618-80B097CF9EC9",
-      "intendedWord" : "DAM",
+      "id" : "E6980329-4B10-442C-9FC6-BF2BA7492C2D",
+      "intendedWord" : "GAL",
       "letterCount" : 3,
-      "letters" : "DAM"
-    },
-    {
-      "addedLetter" : "I",
-      "id" : "EF7A8567-F6E1-425E-8550-A1BD72808BAE",
-      "intendedWord" : "AMID",
-      "letterCount" : 4
-    },
-    {
-      "addedLetter" : "E",
-      "id" : "85FC7A09-FE37-4502-880F-7D09D04D02EF",
-      "intendedWord" : "MEDIA",
-      "letterCount" : 5
+      "letters" : "GAL"
     },
     {
       "addedLetter" : "D",
-      "id" : "4437704F-B3FA-4343-8627-127969470B51",
-      "intendedWord" : "DIADEM",
+      "id" : "7A688247-E1DD-4769-AC9B-D5C857D49A13",
+      "intendedWord" : "GLAD",
+      "letterCount" : 4
+    },
+    {
+      "addedLetter" : "N",
+      "id" : "42810DCB-9F9C-4A2D-91C0-D71FC9FBFDAB",
+      "intendedWord" : "GLAND",
+      "letterCount" : 5
+    },
+    {
+      "addedLetter" : "E",
+      "id" : "CCEEDB03-0657-4446-AB2C-8A1B0D383688",
+      "intendedWord" : "ANGLED",
       "letterCount" : 6
     },
     {
       "addedLetter" : "R",
-      "id" : "55E1C30A-1B37-4ED8-97C4-0EF92BAE864A",
-      "intendedWord" : "ADMIRED",
+      "id" : "601DDDA7-E7E7-4455-8F79-15C3FC7706F4",
+      "intendedWord" : "GNARLED",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "S",
-      "id" : "D25F3630-E552-40DA-9523-2E891B7B5B13",
-      "intendedWord" : "DISARMED",
+      "addedLetter" : "E",
+      "id" : "CD71CAB4-01F7-4354-A9A2-E2F832492F76",
+      "intendedWord" : "ENLARGED",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T12:41:22Z",
-  "name" : "Tiara",
+  "modifiedDate" : "2026-02-13T16:28:22Z",
+  "name" : "Big",
   "version" : "1.0"
 }

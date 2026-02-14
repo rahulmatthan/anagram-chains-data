@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T12:45:54Z",
+  "createdDate" : "2026-02-13T15:42:09Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "9F4B0299-2695-4956-9DEF-FF8FA2310ED2",
+  "id" : "AC5AEFB2-4D3B-40E3-A658-4755D3099650",
   "levels" : [
     {
-      "id" : "A2C9927C-2449-4AE1-9767-0B20D94A6303",
-      "intendedWord" : "CAP",
+      "id" : "6C345A46-DCC8-4DBF-92C0-792B220802CA",
+      "intendedWord" : "FAR",
       "letterCount" : 3,
-      "letters" : "CAP"
-    },
-    {
-      "addedLetter" : "E",
-      "id" : "5FB2C1EE-60E2-44FD-AB0F-06817C2725C2",
-      "intendedWord" : "CAPE",
-      "letterCount" : 4
-    },
-    {
-      "addedLetter" : "L",
-      "id" : "33554844-8FCF-4513-BD13-2F9ED6637FDD",
-      "intendedWord" : "PLACE",
-      "letterCount" : 5
-    },
-    {
-      "addedLetter" : "R",
-      "id" : "7C41ED0E-8238-443C-861B-70BEB7E29E2D",
-      "intendedWord" : "PARCEL",
-      "letterCount" : 6
+      "letters" : "FAR"
     },
     {
       "addedLetter" : "I",
-      "id" : "578AFC8B-01BE-45E2-8320-353C8AA02CB0",
-      "intendedWord" : "REPLICA",
+      "id" : "7D6F130E-022F-4522-B67B-6121FBD537E8",
+      "intendedWord" : "FAIR",
+      "letterCount" : 4
+    },
+    {
+      "addedLetter" : "R",
+      "id" : "163C5900-9636-4EB9-91EF-C198B959A089",
+      "intendedWord" : "FRIAR",
+      "letterCount" : 5
+    },
+    {
+      "addedLetter" : "E",
+      "id" : "9F667FB7-FCEA-46E4-A183-337C48569FD1",
+      "intendedWord" : "FAIRER",
+      "letterCount" : 6
+    },
+    {
+      "addedLetter" : "N",
+      "id" : "154EA665-66E7-4846-91BA-339C25F9F88E",
+      "intendedWord" : "REFRAIN",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "T",
-      "id" : "87B27A14-AB4F-42D7-906A-AC19D4A0B734",
-      "intendedWord" : "PARTICLE",
+      "addedLetter" : "D",
+      "id" : "A67743EE-3C9B-40FD-BDAA-17FF19500602",
+      "intendedWord" : "INFRARED",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T12:45:54Z",
-  "name" : "Quantum",
+  "modifiedDate" : "2026-02-13T15:42:09Z",
+  "name" : "Spectrum",
   "version" : "1.0"
 }

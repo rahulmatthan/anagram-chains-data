@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T12:33:45Z",
+  "createdDate" : "2026-02-14T16:40:28Z",
   "description" : "Anagram chain",
-  "difficulty" : "easy",
-  "id" : "37CC3C00-4606-47A1-A3CF-9D6433093773",
+  "difficulty" : "medium",
+  "id" : "17A0F58A-E864-4096-8CD1-B85C9FAF13B7",
   "levels" : [
     {
-      "id" : "F97BF49E-6645-42C0-B8E2-5E1239486AFF",
-      "intendedWord" : "BAR",
+      "id" : "6EF12E36-72E7-405B-8349-BFB503C5EAF0",
+      "intendedWord" : "CAD",
       "letterCount" : 3,
-      "letters" : "BAR"
+      "letters" : "CAD"
     },
     {
-      "addedLetter" : "K",
-      "id" : "84C22ACF-B93C-4494-9C88-AC0CF9E46C84",
-      "intendedWord" : "BARK",
+      "addedLetter" : "L",
+      "id" : "FAABFBE6-B187-47B2-B4F6-B693584856E6",
+      "intendedWord" : "CLAD",
       "letterCount" : 4
     },
     {
       "addedLetter" : "E",
-      "id" : "1CC21032-8865-40F6-B3AE-86DD85D8F644",
-      "intendedWord" : "BAKER",
+      "id" : "C9888E5D-164C-435C-A8D1-A583A7B23323",
+      "intendedWord" : "LACED",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "C",
-      "id" : "C605BD53-8195-4C6D-BDE8-69008C848AD6",
-      "intendedWord" : "BACKER",
+      "addedLetter" : "B",
+      "id" : "59D3E98F-1F13-4888-B876-4C32463E3CAB",
+      "intendedWord" : "CABLED",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "L",
-      "id" : "1658C0B2-1D84-48CD-A652-D627309AFB36",
-      "intendedWord" : "BLACKER",
+      "addedLetter" : "E",
+      "id" : "3F6966DE-6176-41AC-9B5F-5FE6C3D9E705",
+      "intendedWord" : "DEBACLE",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "I",
-      "id" : "3158E16D-70DD-4C9D-A77A-E8B3D1C79C74",
-      "intendedWord" : "CRABLIKE",
+      "addedLetter" : "H",
+      "id" : "970EEB7B-6E8A-48C4-A9AD-A1C0061DC12A",
+      "intendedWord" : "BLEACHED",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T12:33:45Z",
-  "name" : "Cancer",
+  "modifiedDate" : "2026-02-14T16:40:28Z",
+  "name" : "Whitened",
   "version" : "1.0"
 }
