@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-14T12:24:59Z",
+  "createdDate" : "2026-02-14T17:03:06Z",
   "description" : "Anagram chain",
-  "difficulty" : "hard",
-  "id" : "00947E21-7D08-48B5-A5D0-D7D7FECE5FCA",
+  "difficulty" : "medium",
+  "id" : "DC58708C-2949-428A-B8F4-61275C011C8B",
   "levels" : [
     {
-      "id" : "28964A4D-C924-40C5-B146-32B8434CBB6D",
-      "intendedWord" : "BAR",
+      "id" : "68D7C925-99C4-4376-9D2A-BCB31189BFB1",
+      "intendedWord" : "AIL",
       "letterCount" : 3,
-      "letters" : "BAR"
+      "letters" : "AIL"
     },
     {
-      "addedLetter" : "G",
-      "id" : "BDD89A04-B1D6-4758-A429-219FC09389CD",
-      "intendedWord" : "GRAB",
+      "addedLetter" : "R",
+      "id" : "2DAFE00E-4477-40CE-8D82-E2B2FC80ADB3",
+      "intendedWord" : "LIAR",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "E",
-      "id" : "511907B4-A8FD-4691-BB79-6889BE972BFB",
-      "intendedWord" : "BARGE",
+      "addedLetter" : "T",
+      "id" : "D1604E4A-3C9D-4A97-900A-938C7267AC9F",
+      "intendedWord" : "TRIAL",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "L",
-      "id" : "1FCC08E8-5F4B-45E1-9B50-D0EA478622B4",
-      "intendedWord" : "GARBLE",
+      "addedLetter" : "U",
+      "id" : "1DE38353-D30C-45BA-9F90-12FE4621C051",
+      "intendedWord" : "RITUAL",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "A",
-      "id" : "0477A160-3D94-478D-B403-5C900032EA15",
-      "intendedWord" : "ALGEBRA",
+      "addedLetter" : "T",
+      "id" : "D91AF7B1-DCFA-4614-94EC-1EF19577196F",
+      "intendedWord" : "TITULAR",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "U",
-      "id" : "E7D62518-062D-4D80-88E3-618C5DB60F4E",
-      "intendedWord" : "ARGUABLE",
+      "addedLetter" : "O",
+      "id" : "96E319D0-5B97-41F3-9688-8293DE6A47F4",
+      "intendedWord" : "TUTORIAL",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-14T12:24:59Z",
-  "name" : "Lawyers Love This",
+  "modifiedDate" : "2026-02-14T17:03:06Z",
+  "name" : "Teaching",
   "version" : "1.0"
 }

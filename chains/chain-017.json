@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T12:44:14Z",
+  "createdDate" : "2026-02-13T14:37:25Z",
   "description" : "Anagram chain",
-  "difficulty" : "hard",
-  "id" : "95539A46-7B6F-4828-98D9-F72D7DA95805",
+  "difficulty" : "easy",
+  "id" : "ED0361C6-77AC-409B-ABA1-418C1CC78148",
   "levels" : [
     {
-      "id" : "87186019-4422-4EC0-B5BD-DAF709A94332",
-      "intendedWord" : "ARC",
+      "id" : "610D6A4C-51DA-45FA-BA53-F6DC7C392C06",
+      "intendedWord" : "APE",
       "letterCount" : 3,
-      "letters" : "ARC"
+      "letters" : "APE"
     },
     {
-      "addedLetter" : "D",
-      "id" : "D8033459-8D9F-498E-B427-3BDF6D93E324",
-      "intendedWord" : "CARD",
+      "addedLetter" : "R",
+      "id" : "5AF1BAA1-02D1-409B-8B21-E16BDCC73314",
+      "intendedWord" : "PEAR",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "E",
-      "id" : "62F6C7D9-BCA3-4B8E-91E2-D7FFC8C94876",
-      "intendedWord" : "CEDAR",
+      "addedLetter" : "O",
+      "id" : "645DDD07-B19E-47D7-82BC-FE19876730F1",
+      "intendedWord" : "OPERA",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "T",
-      "id" : "BD82380E-57CD-4E95-8424-AB890A8E7DDA",
-      "intendedWord" : "REDACT",
+      "addedLetter" : "L",
+      "id" : "F0B363AA-0E87-408F-9B4B-134CE20EF454",
+      "intendedWord" : "PAROLE",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "U",
-      "id" : "A96A38D6-6C3E-4059-9E13-D6DF00E121EC",
-      "intendedWord" : "TRADUCE",
+      "addedLetter" : "V",
+      "id" : "B125FD49-7F9B-41B2-9C9A-16FB8D4C4F1D",
+      "intendedWord" : "OVERLAP",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "O",
-      "id" : "60E1B8F7-50A5-48A4-98F9-B4FA0F925E09",
-      "intendedWord" : "EDUCATOR",
+      "addedLetter" : "B",
+      "id" : "79DC92D0-B488-4D82-8581-E0AAFD2D1FD1",
+      "intendedWord" : "PROVABLE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T12:44:14Z",
-  "name" : "Schooled",
+  "modifiedDate" : "2026-02-13T14:37:25Z",
+  "name" : "Evident",
   "version" : "1.0"
 }

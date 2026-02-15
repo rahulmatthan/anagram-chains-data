@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T12:34:44Z",
+  "createdDate" : "2026-02-13T12:42:37Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "95AA99B2-4C13-4B3C-974D-C3A8656E415B",
+  "id" : "6929ADBB-4A18-42A4-8905-FAF3AD9725D3",
   "levels" : [
     {
-      "id" : "DCBF4EF3-F478-401F-9176-B3E38ED72404",
-      "intendedWord" : "BAT",
+      "id" : "8DA21030-2E11-4502-87F7-3C7F646C57BB",
+      "intendedWord" : "TAD",
       "letterCount" : 3,
-      "letters" : "BAT"
+      "letters" : "TAD"
     },
     {
       "addedLetter" : "E",
-      "id" : "D02BFE3C-BC49-4CDD-BDB6-AF8208EE4CA7",
-      "intendedWord" : "BETA",
+      "id" : "3A1E56DC-8B7B-42A5-BA44-26D4B10934DA",
+      "intendedWord" : "DATE",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "S",
-      "id" : "19C91DA8-EEBC-4AEC-99FD-D2D4FCF38C2A",
-      "intendedWord" : "BEAST",
+      "addedLetter" : "R",
+      "id" : "566F74F0-06DA-49D9-B0F8-F8BD92CE4B5D",
+      "intendedWord" : "TRADE",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "N",
-      "id" : "B8BB494B-791D-40BE-A69D-290AE5E65B5D",
-      "intendedWord" : "ABSENT",
+      "addedLetter" : "H",
+      "id" : "28B8528A-6878-47C6-8F4C-8B98EC2E06B8",
+      "intendedWord" : "HATRED",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "I",
-      "id" : "727D219A-93DA-4604-973C-CEC65423C0F9",
-      "intendedWord" : "BASINET",
+      "addedLetter" : "B",
+      "id" : "30E5A5B0-B497-4AA6-852B-A7E4CF966E71",
+      "intendedWord" : "BREADTH",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "R",
-      "id" : "018BB8AE-CCBD-4218-BC1C-5B5EADE6C95C",
-      "intendedWord" : "BANISTER",
+      "addedLetter" : "E",
+      "id" : "913E3788-5FBA-4FD9-B2DA-4FC5148B390D",
+      "intendedWord" : "BREATHED",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T12:34:44Z",
-  "name" : "One Step At a Time",
+  "modifiedDate" : "2026-02-13T12:42:37Z",
+  "name" : "Sigh",
   "version" : "1.0"
 }

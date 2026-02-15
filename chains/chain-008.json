@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T15:42:09Z",
+  "createdDate" : "2026-02-13T16:28:22Z",
   "description" : "Anagram chain",
-  "difficulty" : "medium",
-  "id" : "AC5AEFB2-4D3B-40E3-A658-4755D3099650",
+  "difficulty" : "hard",
+  "id" : "AE34DCAE-F949-4959-822C-68C75EECFE35",
   "levels" : [
     {
-      "id" : "6C345A46-DCC8-4DBF-92C0-792B220802CA",
-      "intendedWord" : "FAR",
+      "id" : "E6980329-4B10-442C-9FC6-BF2BA7492C2D",
+      "intendedWord" : "GAL",
       "letterCount" : 3,
-      "letters" : "FAR"
+      "letters" : "GAL"
     },
     {
-      "addedLetter" : "I",
-      "id" : "7D6F130E-022F-4522-B67B-6121FBD537E8",
-      "intendedWord" : "FAIR",
+      "addedLetter" : "D",
+      "id" : "7A688247-E1DD-4769-AC9B-D5C857D49A13",
+      "intendedWord" : "GLAD",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "R",
-      "id" : "163C5900-9636-4EB9-91EF-C198B959A089",
-      "intendedWord" : "FRIAR",
+      "addedLetter" : "N",
+      "id" : "42810DCB-9F9C-4A2D-91C0-D71FC9FBFDAB",
+      "intendedWord" : "GLAND",
       "letterCount" : 5
     },
     {
       "addedLetter" : "E",
-      "id" : "9F667FB7-FCEA-46E4-A183-337C48569FD1",
-      "intendedWord" : "FAIRER",
+      "id" : "CCEEDB03-0657-4446-AB2C-8A1B0D383688",
+      "intendedWord" : "ANGLED",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "N",
-      "id" : "154EA665-66E7-4846-91BA-339C25F9F88E",
-      "intendedWord" : "REFRAIN",
+      "addedLetter" : "R",
+      "id" : "601DDDA7-E7E7-4455-8F79-15C3FC7706F4",
+      "intendedWord" : "GNARLED",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "D",
-      "id" : "A67743EE-3C9B-40FD-BDAA-17FF19500602",
-      "intendedWord" : "INFRARED",
+      "addedLetter" : "E",
+      "id" : "CD71CAB4-01F7-4354-A9A2-E2F832492F76",
+      "intendedWord" : "ENLARGED",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T15:42:09Z",
-  "name" : "Spectrum",
+  "modifiedDate" : "2026-02-13T16:28:22Z",
+  "name" : "Big",
   "version" : "1.0"
 }

@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-14T17:03:06Z",
+  "createdDate" : "2026-02-13T12:34:44Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "DC58708C-2949-428A-B8F4-61275C011C8B",
+  "id" : "95AA99B2-4C13-4B3C-974D-C3A8656E415B",
   "levels" : [
     {
-      "id" : "68D7C925-99C4-4376-9D2A-BCB31189BFB1",
-      "intendedWord" : "AIL",
+      "id" : "DCBF4EF3-F478-401F-9176-B3E38ED72404",
+      "intendedWord" : "BAT",
       "letterCount" : 3,
-      "letters" : "AIL"
+      "letters" : "BAT"
     },
     {
-      "addedLetter" : "R",
-      "id" : "2DAFE00E-4477-40CE-8D82-E2B2FC80ADB3",
-      "intendedWord" : "LIAR",
+      "addedLetter" : "E",
+      "id" : "D02BFE3C-BC49-4CDD-BDB6-AF8208EE4CA7",
+      "intendedWord" : "BETA",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "T",
-      "id" : "D1604E4A-3C9D-4A97-900A-938C7267AC9F",
-      "intendedWord" : "TRIAL",
+      "addedLetter" : "S",
+      "id" : "19C91DA8-EEBC-4AEC-99FD-D2D4FCF38C2A",
+      "intendedWord" : "BEAST",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "U",
-      "id" : "1DE38353-D30C-45BA-9F90-12FE4621C051",
-      "intendedWord" : "RITUAL",
+      "addedLetter" : "N",
+      "id" : "B8BB494B-791D-40BE-A69D-290AE5E65B5D",
+      "intendedWord" : "ABSENT",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "T",
-      "id" : "D91AF7B1-DCFA-4614-94EC-1EF19577196F",
-      "intendedWord" : "TITULAR",
+      "addedLetter" : "I",
+      "id" : "727D219A-93DA-4604-973C-CEC65423C0F9",
+      "intendedWord" : "BASINET",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "O",
-      "id" : "96E319D0-5B97-41F3-9688-8293DE6A47F4",
-      "intendedWord" : "TUTORIAL",
+      "addedLetter" : "R",
+      "id" : "018BB8AE-CCBD-4218-BC1C-5B5EADE6C95C",
+      "intendedWord" : "BANISTER",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-14T17:03:06Z",
-  "name" : "Teaching",
+  "modifiedDate" : "2026-02-13T12:34:44Z",
+  "name" : "One Step At a Time",
   "version" : "1.0"
 }

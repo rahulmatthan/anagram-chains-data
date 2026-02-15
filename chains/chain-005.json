@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T16:28:22Z",
+  "createdDate" : "2026-02-14T16:40:28Z",
   "description" : "Anagram chain",
-  "difficulty" : "hard",
-  "id" : "AE34DCAE-F949-4959-822C-68C75EECFE35",
+  "difficulty" : "medium",
+  "id" : "17A0F58A-E864-4096-8CD1-B85C9FAF13B7",
   "levels" : [
     {
-      "id" : "E6980329-4B10-442C-9FC6-BF2BA7492C2D",
-      "intendedWord" : "GAL",
+      "id" : "6EF12E36-72E7-405B-8349-BFB503C5EAF0",
+      "intendedWord" : "CAD",
       "letterCount" : 3,
-      "letters" : "GAL"
+      "letters" : "CAD"
     },
     {
-      "addedLetter" : "D",
-      "id" : "7A688247-E1DD-4769-AC9B-D5C857D49A13",
-      "intendedWord" : "GLAD",
+      "addedLetter" : "L",
+      "id" : "FAABFBE6-B187-47B2-B4F6-B693584856E6",
+      "intendedWord" : "CLAD",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "N",
-      "id" : "42810DCB-9F9C-4A2D-91C0-D71FC9FBFDAB",
-      "intendedWord" : "GLAND",
+      "addedLetter" : "E",
+      "id" : "C9888E5D-164C-435C-A8D1-A583A7B23323",
+      "intendedWord" : "LACED",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "E",
-      "id" : "CCEEDB03-0657-4446-AB2C-8A1B0D383688",
-      "intendedWord" : "ANGLED",
+      "addedLetter" : "B",
+      "id" : "59D3E98F-1F13-4888-B876-4C32463E3CAB",
+      "intendedWord" : "CABLED",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "R",
-      "id" : "601DDDA7-E7E7-4455-8F79-15C3FC7706F4",
-      "intendedWord" : "GNARLED",
+      "addedLetter" : "E",
+      "id" : "3F6966DE-6176-41AC-9B5F-5FE6C3D9E705",
+      "intendedWord" : "DEBACLE",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "E",
-      "id" : "CD71CAB4-01F7-4354-A9A2-E2F832492F76",
-      "intendedWord" : "ENLARGED",
+      "addedLetter" : "H",
+      "id" : "970EEB7B-6E8A-48C4-A9AD-A1C0061DC12A",
+      "intendedWord" : "BLEACHED",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T16:28:22Z",
-  "name" : "Big",
+  "modifiedDate" : "2026-02-14T16:40:28Z",
+  "name" : "Whitened",
   "version" : "1.0"
 }

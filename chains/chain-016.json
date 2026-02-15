@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T12:45:54Z",
+  "createdDate" : "2026-02-13T15:16:20Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "9F4B0299-2695-4956-9DEF-FF8FA2310ED2",
+  "id" : "0AD4DA18-3ABD-4343-9B29-E8B0DD00895E",
   "levels" : [
     {
-      "id" : "A2C9927C-2449-4AE1-9767-0B20D94A6303",
-      "intendedWord" : "CAP",
+      "id" : "F5221FB7-8D08-428A-8F5F-8BD6513677CF",
+      "intendedWord" : "CAN",
       "letterCount" : 3,
-      "letters" : "CAP"
-    },
-    {
-      "addedLetter" : "E",
-      "id" : "5FB2C1EE-60E2-44FD-AB0F-06817C2725C2",
-      "intendedWord" : "CAPE",
-      "letterCount" : 4
-    },
-    {
-      "addedLetter" : "L",
-      "id" : "33554844-8FCF-4513-BD13-2F9ED6637FDD",
-      "intendedWord" : "PLACE",
-      "letterCount" : 5
-    },
-    {
-      "addedLetter" : "R",
-      "id" : "7C41ED0E-8238-443C-861B-70BEB7E29E2D",
-      "intendedWord" : "PARCEL",
-      "letterCount" : 6
+      "letters" : "CAN"
     },
     {
       "addedLetter" : "I",
-      "id" : "578AFC8B-01BE-45E2-8320-353C8AA02CB0",
-      "intendedWord" : "REPLICA",
-      "letterCount" : 7
+      "id" : "51A25EBA-9E2A-4BCC-9A3D-A630126BB437",
+      "intendedWord" : "INCA",
+      "letterCount" : 4
+    },
+    {
+      "addedLetter" : "P",
+      "id" : "CBA1B6D8-3916-4D4F-A38E-C7F82C8D6F71",
+      "intendedWord" : "PANIC",
+      "letterCount" : 5
     },
     {
       "addedLetter" : "T",
-      "id" : "87B27A14-AB4F-42D7-906A-AC19D4A0B734",
-      "intendedWord" : "PARTICLE",
+      "id" : "501BD94D-F1DA-426E-BE1A-CBBE27142D3A",
+      "intendedWord" : "CATNIP",
+      "letterCount" : 6
+    },
+    {
+      "addedLetter" : "O",
+      "id" : "B0EC247C-F65B-4A96-AD96-DBB8A404DE94",
+      "intendedWord" : "CAPTION",
+      "letterCount" : 7
+    },
+    {
+      "addedLetter" : "L",
+      "id" : "446225DD-F6E5-40C8-BEB2-183C48632601",
+      "intendedWord" : "PLATONIC",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T12:45:54Z",
-  "name" : "Quantum",
+  "modifiedDate" : "2026-02-13T15:16:20Z",
+  "name" : "Relate",
   "version" : "1.0"
 }

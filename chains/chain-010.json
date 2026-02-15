@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T15:24:47Z",
+  "createdDate" : "2026-02-13T15:45:44Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "ED0A4694-43BE-4065-8429-A504ED9483A3",
+  "id" : "7C806DAB-55FD-4F05-9866-B012B2CCAFD1",
   "levels" : [
     {
-      "id" : "8D052D7C-ED61-43C1-8A94-761D03050883",
-      "intendedWord" : "FAR",
+      "id" : "DB057EA7-F483-42A6-9280-8A9B007D2A2D",
+      "intendedWord" : "TAD",
       "letterCount" : 3,
-      "letters" : "FAR"
-    },
-    {
-      "addedLetter" : "T",
-      "id" : "FF1031F5-7DC6-453A-8CEF-52AFDB1DF45E",
-      "intendedWord" : "RAFT",
-      "letterCount" : 4
+      "letters" : "TAD"
     },
     {
       "addedLetter" : "E",
-      "id" : "4E91F6F6-11EE-4D26-92DB-6C6975CF8316",
-      "intendedWord" : "AFTER",
-      "letterCount" : 5
+      "id" : "F486FA75-9AEA-41B1-BAEF-D129CFDD130A",
+      "intendedWord" : "DATE",
+      "letterCount" : 4
     },
     {
       "addedLetter" : "L",
-      "id" : "E14CBCDB-DFCA-44ED-8905-A5311644F3A1",
-      "intendedWord" : "FALTER",
-      "letterCount" : 6
-    },
-    {
-      "addedLetter" : "T",
-      "id" : "3244B069-8D0E-4FDC-9B96-1C97E3977F49",
-      "intendedWord" : "FLATTER",
-      "letterCount" : 7
+      "id" : "78B58C19-686C-47D4-B977-21425ADE13E5",
+      "intendedWord" : "DELTA",
+      "letterCount" : 5
     },
     {
       "addedLetter" : "I",
-      "id" : "52762840-E2CF-49F6-857F-DF46E0781B73",
-      "intendedWord" : "FILTRATE",
+      "id" : "4CB5FC34-68E7-450A-A0A0-B0F4076370D5",
+      "intendedWord" : "DETAIL",
+      "letterCount" : 6
+    },
+    {
+      "addedLetter" : "C",
+      "id" : "FC6CA1B8-FE17-4E45-896E-26E25E017404",
+      "intendedWord" : "DIALECT",
+      "letterCount" : 7
+    },
+    {
+      "addedLetter" : "E",
+      "id" : "51CDAAE2-27C5-449F-8961-9DD16DCF0899",
+      "intendedWord" : "DELICATE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T15:24:47Z",
-  "name" : "Sediment",
+  "modifiedDate" : "2026-02-13T15:45:44Z",
+  "name" : "Frail",
   "version" : "1.0"
 }

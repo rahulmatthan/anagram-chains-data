@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-14T17:05:12Z",
+  "createdDate" : "2026-02-13T12:33:45Z",
   "description" : "Anagram chain",
-  "difficulty" : "medium",
-  "id" : "21E2DC4E-CE23-48B3-8EDC-5CBDD5F32571",
+  "difficulty" : "easy",
+  "id" : "37CC3C00-4606-47A1-A3CF-9D6433093773",
   "levels" : [
     {
-      "id" : "4EDBB72C-31C4-4A44-ACC3-7EACA09DD0E7",
-      "intendedWord" : "EEL",
+      "id" : "F97BF49E-6645-42C0-B8E2-5E1239486AFF",
+      "intendedWord" : "BAR",
       "letterCount" : 3,
-      "letters" : "EEL"
+      "letters" : "BAR"
     },
     {
-      "addedLetter" : "R",
-      "id" : "5A97335E-07C0-4FBF-938F-7DF021AA81C6",
-      "intendedWord" : "REEL",
+      "addedLetter" : "K",
+      "id" : "84C22ACF-B93C-4494-9C88-AC0CF9E46C84",
+      "intendedWord" : "BARK",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "D",
-      "id" : "0E717915-25FD-4B0F-A4BE-45644B6B9714",
-      "intendedWord" : "ELDER",
+      "addedLetter" : "E",
+      "id" : "1CC21032-8865-40F6-B3AE-86DD85D8F644",
+      "intendedWord" : "BAKER",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "N",
-      "id" : "9FCCB5CC-A1C8-4BBD-85DD-13AEB3B967A3",
-      "intendedWord" : "LENDER",
+      "addedLetter" : "C",
+      "id" : "C605BD53-8195-4C6D-BDE8-69008C848AD6",
+      "intendedWord" : "BACKER",
       "letterCount" : 6
     },
     {
-      "addedLetter" : "A",
-      "id" : "7709A500-A7AF-43AB-8CA6-94336E4B69F2",
-      "intendedWord" : "LEARNED",
+      "addedLetter" : "L",
+      "id" : "1658C0B2-1D84-48CD-A652-D627309AFB36",
+      "intendedWord" : "BLACKER",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "C",
-      "id" : "E1399974-CBFE-4FCF-A769-2855328A8838",
-      "intendedWord" : "CALENDER",
+      "addedLetter" : "I",
+      "id" : "3158E16D-70DD-4C9D-A77A-E8B3D1C79C74",
+      "intendedWord" : "CRABLIKE",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-14T17:05:12Z",
-  "name" : "Dated",
+  "modifiedDate" : "2026-02-13T12:33:45Z",
+  "name" : "Cancer",
   "version" : "1.0"
 }

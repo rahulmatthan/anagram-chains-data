@@ -1,47 +1,47 @@
 {
-  "createdDate" : "2026-02-13T15:19:59Z",
+  "createdDate" : "2026-02-13T15:34:46Z",
   "description" : "Anagram chain",
   "difficulty" : "medium",
-  "id" : "39E8E3D3-B40B-4A53-8CE5-D8BB84FF6F46",
+  "id" : "770E38A1-12D0-4C21-AFA2-795A8A680542",
   "levels" : [
     {
-      "id" : "8B8A23A9-4512-43CC-8D4F-8AA44AC826A5",
-      "intendedWord" : "AWE",
+      "id" : "09B9D8AB-8F2F-4BBD-B5A2-93EB08B2BB8C",
+      "intendedWord" : "ADD",
       "letterCount" : 3,
-      "letters" : "AWE"
+      "letters" : "ADD"
     },
     {
-      "addedLetter" : "R",
-      "id" : "158E8970-007F-45ED-9C5A-EB8328B31748",
-      "intendedWord" : "WEAR",
+      "addedLetter" : "E",
+      "id" : "14E94C9D-EF3D-4952-B55A-251AF3909D47",
+      "intendedWord" : "DEAD",
       "letterCount" : 4
     },
     {
-      "addedLetter" : "T",
-      "id" : "D49EFD16-7626-41FA-A655-6D15B64F8968",
-      "intendedWord" : "WATER",
+      "addedLetter" : "R",
+      "id" : "A5856FB4-94B0-4E8A-A2FA-502EF6D43C75",
+      "intendedWord" : "DREAD",
       "letterCount" : 5
     },
     {
-      "addedLetter" : "H",
-      "id" : "E2E10BED-6EF9-42CC-BC12-99894152CC09",
-      "intendedWord" : "WREATH",
+      "addedLetter" : "G",
+      "id" : "6A2E2512-9861-4DAB-969F-A37571383282",
+      "intendedWord" : "GRADED",
       "letterCount" : 6
     },
     {
       "addedLetter" : "E",
-      "id" : "9B56B602-CC83-42CD-9D4C-8FBE77416B55",
-      "intendedWord" : "WEATHER",
+      "id" : "01C3BF38-023E-404F-BAA2-2225ACB1535A",
+      "intendedWord" : "DEGRADE",
       "letterCount" : 7
     },
     {
-      "addedLetter" : "V",
-      "id" : "23FA6D2F-2A5C-4C30-8BC2-3FE9929E12CF",
-      "intendedWord" : "WHATEVER",
+      "addedLetter" : "N",
+      "id" : "37811CDA-BDAF-4EF8-9755-7F5B1C9591B9",
+      "intendedWord" : "GARDENED",
       "letterCount" : 8
     }
   ],
-  "modifiedDate" : "2026-02-13T15:19:59Z",
-  "name" : "Who knows",
+  "modifiedDate" : "2026-02-13T15:34:46Z",
+  "name" : "Horticultural",
   "version" : "1.0"
 }
