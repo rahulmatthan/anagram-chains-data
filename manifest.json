@@ -239,8 +239,48 @@
       "letterCount" : 6,
       "name" : "Pennypinch",
       "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-030.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-031",
+      "letterCount" : 6,
+      "name" : "Fly away",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-031.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-032",
+      "letterCount" : 6,
+      "name" : "Pure",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-032.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-033",
+      "letterCount" : 6,
+      "name" : "Slope",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-033.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-034",
+      "letterCount" : 6,
+      "name" : "Evaluate",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-034.json"
+    },
+    {
+      "description" : "Anagram chain",
+      "difficulty" : "medium",
+      "id" : "chain-035",
+      "letterCount" : 6,
+      "name" : "Who knows?",
+      "url" : "https:\/\/raw.githubusercontent.com\/rahulmatthan\/anagram-chains-data\/master\/chains\/chain-035.json"
     }
   ],
-  "lastUpdated" : "2026-02-15T04:02:21Z",
+  "lastUpdated" : "2026-02-15T04:33:33Z",
   "version" : "1.0"
 }
